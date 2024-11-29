@@ -1,3 +1,4 @@
+https://github.com/Rudolph-Le/51900696-MidTerm.git
 - Cài đặt JDK 11 or 17 
 
 - Cài đặt nodejs phiên bản 18.x.x
